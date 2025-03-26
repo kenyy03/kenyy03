@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keny Travanino</h1>
 <h3 align="center">A passionate fullstack web developer from Honduras</h3>
-<img src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=2048x2048&w=is&k=20&c=uNbiLU6tIqZxRlAP78GE6LC8VIj2Uf1S-GtEreUsE9M=)"  alt="coding-img" width="400px" align="right" />
+<img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1742970998~exp=1742974598~hmac=8b6af312062c76449cae8ed3a98417b48050f5b5d06f68d0e706605bcf06ccf1&w=826"  alt="coding-img" width="400px" align="right" />
 
 
 - 🌱 I’m currently learning **Angular, Next js**
